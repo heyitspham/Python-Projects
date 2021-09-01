@@ -7,8 +7,10 @@ Projects:
   * Check Files Gui
 
 Phonebook
-  This project functions as a phone book for a user. It saves a contact's name, phone number, and email address in a database and allows the user to update and delete previously stored entries.
+
+This project functions as a phone book for a user. It saves a contact's name, phone number, and email address in a database and allows the user to update and delete previously stored entries.
 
 Check Files Gui
-  This project allows the user to choose and transfer all .txt files (that were modified within the last 24 hours) from one chosen directory to another. All files that are moved will be saved in a database.
+
+This project allows the user to choose and transfer all .txt files (that were modified within the last 24 hours) from one chosen directory to another. All files that are moved will be saved in a database.
   
